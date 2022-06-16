@@ -34,5 +34,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This is the initial state of the application before getting started.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sayed-Minhal/rtl-training-session-start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sayed-Minhal/rtl-training-session-start/issues"
+  },
+  "homepage": "https://github.com/Sayed-Minhal/rtl-training-session-start#readme"
 }
